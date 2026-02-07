@@ -1,4 +1,4 @@
-# 📝 Blog API
+Blog API
 
 A simple Blog REST API built with Node.js, Express.js, MongoDB, and Mongoose.  
 This project was developed as part of the Nobzo Backend Technical Assessment.
